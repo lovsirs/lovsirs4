@@ -50,7 +50,7 @@
 		end)
 		rawset(_g, "LRM_IsUserPremium", false)
 		rawset(_g, "LRM_LinkedDiscordID", "0")
-		rawset(_g, "LRM_ScriptName", "Bleh Hub")
+		rawset(_g, "LRM_ScriptName", "Bleh hub leaked by 19md")
 		rawset(_g, "LRM_TotalExecutions", 0)
 		rawset(_g, "LRM_SecondsLeft", math.huge)
 		rawset(_g, "LRM_UserNote", "Developer")
@@ -1075,7 +1075,7 @@ local function createSwitch(parent, options)
 end
 
 -- ============================================================================
--- SILENT AIM ENGINE (original Bleh Hub silent aim, adapted for this GUI)
+-- SILENT AIM ENGINE (original Bleh hub leaked by 19md silent aim, adapted for this GUI)
 -- Config table + helpers + FOV/POV target picker + __namecall redirect +
 -- snapline/FOV visuals. GUI rows added inside the TRIGGERBOT card below.
 -- ============================================================================
@@ -2247,7 +2247,7 @@ header.Active = true
 header.ZIndex = 3
 header.Parent = window
 
-label(header, "Title", "Bleh Hub", UDim2.fromOffset(155, 25), UDim2.fromOffset(16, 16), 15, COLORS.White, Enum.Font.GothamBold).ZIndex =
+label(header, "Title", "Bleh hub leaked by 19md", UDim2.fromOffset(155, 25), UDim2.fromOffset(16, 16), 15, COLORS.White, Enum.Font.GothamBold).ZIndex =
 	4
 
 local divider = Instance.new("Frame")
@@ -2310,7 +2310,7 @@ settingsPage.Parent = window
 local footer = label(
 	window,
 	"DiscordFooter",
-	"discord.gg/nnkfvWdK42",
+	"https://discord.gg/j3AYNbUZS",
 	UDim2.fromOffset(140, 19),
 	UDim2.new(0.5, -70, 0, 414),
 	10,
